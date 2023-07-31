@@ -47,11 +47,11 @@ The **application layer** in the TCP/IP model is similar to the application, pre
 
 Application layer protocols rely on underlying layers to transfer the data across the network.
 
-![Untitled](Google%20Cybersecurity%20Certification%205698b7f78f93409fb7a9e40e36c82e9c/Untitled.png)
+![Untitled](TCP-IP-Model.png)
 
 ## TCP/IP model versus OSI model
 
-![Untitled](Google%20Cybersecurity%20Certification%205698b7f78f93409fb7a9e40e36c82e9c/Untitled%201.png)
+![Untitled](TCP-IP%20vs%20OSI.png)
 
 The **OSI** visually organizes network protocols into different layers. Network professionals often use this model to communicate with each other about potential sources of problems or security threats when they occur.
 
