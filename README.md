@@ -47,7 +47,7 @@ The **application layer** in the TCP/IP model is similar to the application, pre
 
 Application layer protocols rely on underlying layers to transfer the data across the network.
 
-![Untitled](TCP-IP%20Model.png)
+![Untitled](TCP-IP.png)
 
 ## TCP/IP model versus OSI model
 
