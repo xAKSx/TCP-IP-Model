@@ -1,5 +1,3 @@
-# Google Cybersecurity Certification
-
 # TCP/IP Model
 
 > A framework used to visualize how data is organized and transmitted across the network.
