@@ -14,7 +14,7 @@ There are four layers of the TCP/IP model
 
 ## Network Access Layer
 
-The network access layer sometimes called data link layer, organizes sending and receiving data frames within a single network. This layer corresponds to the physical hardware involved in network transmission. Hubs, modems, cables, and wiring are all considered part of this layer. The address resolution protocol (ARP) is part of the network access layer. ARP assists IP with directing data packets on the same physical network by mapping IP addresses to MAC addresses on the same physical network.
+The network access layer sometimes called the data link layer, organizes sending and receiving data frames within a single network. This layer corresponds to the physical hardware involved in network transmission. Hubs, modems, cables, and wiring are all considered part of this layer. The address resolution protocol (ARP) is part of the network access layer. ARP assists IP with directing data packets on the same physical network by mapping IP addresses to MAC addresses on the same physical network.
 
 ## Internet Layer
 
@@ -33,7 +33,7 @@ The **TCP** ensures that data is reliably transmitted to the destination service
 
 ### User Datagram Protocol
 
-The **UDP** is used by applications that are not concerned with the reliability of the transmission. Data sent over UDP is not tracked as extensively as data sent using TCP. Because UDP does not establish network connections, it is used mostly for performance sensitive applications that operate in real time, such as video streaming.
+The **UDP** is used by applications that are not concerned with the reliability of the transmission. Data sent over UDP is not tracked as extensively as data sent using TCP. Because UDP does not establish network connections, it is used mostly for performance-sensitive applications that operate in real-time, such as video streaming.
 
 ## Application Layer
 
